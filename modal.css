@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+}
+.modal{
+	display: hide;
+	background-color: green;
+}
+
+
+.jumbotron{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b5/09/73/b50973972515480367b5eb41139ce2af.jpg");
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
+
+.page-header{
+	color: white;
+}
+
+.text-center{
+	background-color: white;
+	display: block;
+	width: 60%;
+	border-style: none;
+	border-radius: 50px;
+}
+
+.row{
+	position: relative;
+	margin-left: 10%;
+	color: white;
+}
+.class-lg-2{
+	display: inline-block;
+	background-color: forestgreen;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 20px;
+}
+
+#president{
+	display: block;
+	width: 400px;
+	position: absolute;
+	top: 200px;
+	right: 0px;
+	background-color: forestgreen;
+	border-style: none;
+	border-radius: 20px;
+	float: right;
+	color: black;
+	text-align: center;
+}
